@@ -21,15 +21,6 @@
 
 		},
 		{
-			"id": 3,
-			"Tipo": "Caballo",
-			"Nombre": "Oreo",
-			"Observacion": "Esta desnutrido",
-			"Ubicacion": "Frente a Edificio Notariado",
-			"Rasgos": "Es blanco y  esta  muy delgado",
-			"Imagen": "http://www.pulso-digital.com/wp-content/uploads/2014/07/CABALLOS-ENFERMOS-PARA-SACRIFICAR.jpg"
-		},
-		{
 			"id": 2,
 			"Tipo": "Perro",
 			"Nombre": "Sacha",
@@ -47,16 +38,6 @@
 			"Rasgos": "Es una gata blanca y tiene 6 gaticos cachorros",
 			"Imagen": "https://lh4.googleusercontent.com/-PKoAqrneSVg/TyPbkz9VqDI/AAAAAAAAAZg/QycSgXbOPUM/s800/Familia%2520de%2520gatos%2520Korat%2520%2528Gato%2520de%2520la%2520suerte%252C%2520Gat%2520Korat%252C%2520Si-sawaat%252C%2520Gat%2520de%2520la%2520Sort%252C%2520Korat-Katze%252C%2520Gatto%2520Korat%2529.jpg"
 
-
-		},
-		{
-			"id": 6,
-			"Tipo": "Pajaro",
-			"Nombre": "Cantor",
-			"Observacion": "Tiene una ala aproriada",
-			"Ubicacion": "La comercial",
-			"Rasgos": "Es un pechi rojo",
-			"Imagen": "https://www.euroresidentes.com/hogar/mascotas/wp-content/uploads/sites/5/2014/07/como-curar-pajaro-herido-euroresidentes.jpg"
 
 		},
 		{
