@@ -100,22 +100,7 @@
 			"Rasgos": "Es un cachorro",
 			"Imagen": "http://g.cdn.ecn.cl/fenomenos-paranormales/files/2015/07/gatos-adivinos.jpg"
 		},
-		{
-			"id": 15,
-			"Tipo": "Gato",
-			"Observacion": "Para dar en adopcion",
-			"Ubicacion": "Veterinaria Pinamar",
-			"Rasgos": "Tiene apenas un mes de nacido",
-			"Imagen": "http://ecoosfera.com/wp-content/imagenes/0012-O-miado-dos-gatos-1-1024x480.jpg"
-		},
-		{
-			"id": 16,
-			"Tipo": "Perro",
-			"Observacion": "en adopcion",
-			"Ubicacion": "Av.Garzon y Propios",
-			"Rasgos": "Perro pitbull",
-			"Imagen": "http://i58.photobucket.com/albums/g254/big-T1/pitbull_pup11.jpg"
-		}
+		
 
 	]
 }
