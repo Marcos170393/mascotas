@@ -22,7 +22,7 @@
 			"id": 2,
 			"Tipo": "Perro",
 			"Observacion": "Tiene un ojo  herido",
-			"Ubicacion": "Mtvdo Shopping, Mc`Donalds",
+			"Ubicacion": "Mtvdo Shopping",
 			"Rasgos": "Es un perro criollo",
 			"Imagen": "https://cdnmundo1.img.sputniknews.com/images/108809/55/1088095526.jpg"
 		},
@@ -56,7 +56,7 @@
 			"id": 9,
 			"Tipo": "Gato",
 			"Observacion": " para dar en adopcion",
-			"Ubicacion": "Republica de chile y Bv.España",
+			"Ubicacion": "Rca.Chile y Bv.España",
 			"Rasgos": "Cabello gris con blanco ",
 			"Imagen": "http://misanimales.com/wp-content/uploads/2015/01/cascabel-gato.jpg"
 		},
@@ -81,7 +81,7 @@
 			"Tipo": "Perro",
 			"Observacion": "Lo dejaron en una caja",
 			"Ubicacion": "Estacion Atlantida",
-			"Rasgos": "Tiene el pelo cafe con negro y ya esta algo  viejito",
+			"Rasgos": "Tiene el pelo cafe",
 			"Imagen": "http://cde.elcomercio.pe/66/ima/0/0/6/7/0/670997.jpg"
 		},
 		{
@@ -96,7 +96,7 @@
 			"id": 14,
 			"Tipo": "Gato",
 			"Observacion": "Para adopcion",
-			"Ubicacion": "Shopping Costa Urbana Lado Sur",
+			"Ubicacion": "Costa Urbana Lado Sur",
 			"Rasgos": "Es un cachorro",
 			"Imagen": "http://g.cdn.ecn.cl/fenomenos-paranormales/files/2015/07/gatos-adivinos.jpg"
 		},
